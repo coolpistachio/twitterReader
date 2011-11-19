@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US"
+      xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter=
+        "http://api.twitter.com/" xmlns:georss="http://www.georss.org/georss">
+    <id>tag:search.twitter.com,2005:search/nearsoft
+    </id>
+    <link type="text/html" href="http://search.twitter.com/search?q=nearsoft" rel="alternate"/>
+    <link type=
+            "application/atom+xml" href="http://search.twitter.com/search.atom?q=nearsoft" rel="self"/>
+    <title>nearsoft - Twitter
+        Search
+    </title>
+    <link type="application/opensearchdescription+xml" href="http://twitter.com/opensearch.xml" rel="search"/>
+    <link type="application/atom+xml" href=
+            "http://search.twitter.com/search.atom?since_id=136895906174861312&amp;q=nearsoft" rel="refresh"/>
+    <updated>
+        2011-11-16T19:58:22Z
+    </updated>
+    <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+    <entry>
+        <id>
+            tag:search.twitter.com,2005:136895906174861312
+        </id>
+        <published>2011-11-16T19:58:22Z</published>
+        <link type="text/html"
+              href="http://twitter.com/NearsoftTalks/statuses/136895906174861312" rel="alternate"/>
+        <title>http://t.co/uTUOnYOr
+            #nearsoft #proxy2011
+        </title>
+        <content type="html">&lt;a href="http://t.co/uTUOnYOr"&gt;http://t.co/uTUOnYOr&lt;/a&gt; #
+            &lt;em&gt;nearsoft&lt;/em&gt; &lt;a href="http://search.twitter.com/search?q=%23proxy2011" title="#proxy2011" class=" "
+            &gt;#proxy2011&lt;/a&gt;</content>
+        <updated>2011-11-16T19:58:22Z</updated>
+        <link type="image/png" href=
+                "http://a2.twimg.com/profile_images/1556859531/NS-trans1_normal.png" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;
+        </twitter:source>
+        <twitter:lang>it</twitter:lang>
+        <author>
+            <name>NearsoftTalks (Nearsoft Talks)</name>
+            <uri>
+                http://twitter.com/NearsoftTalks
+            </uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:136895809898819584
+        </id>
+        <published>2011-11-16T19:57:59Z</published>
+        <link type="text/html" href=
+                "http://twitter.com/NearsoftTalks/statuses/136895809898819584" rel="alternate"/>
+        <title>http://t.co/lvr6jNvZ #nearsoft
+        </title>
+        <content type="html">&lt;a href="http://t.co/lvr6jNvZ"&gt;http://t.co/lvr6jNvZ&lt;/a&gt; #&lt;em&gt;nearsoft&lt;
+            /em&gt;</content>
+        <updated>2011-11-16T19:57:59Z</updated>
+        <link type="image/png" href=
+                "http://a2.twimg.com/profile_images/1556859531/NS-trans1_normal.png" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;
+        </twitter:source>
+        <twitter:lang>is</twitter:lang>
+        <author>
+            <name>NearsoftTalks (Nearsoft Talks)</name>
+            <uri>
+                http://twitter.com/NearsoftTalks
+            </uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:136230355211530240
+        </id>
+        <published>2011-11-14T23:53:42Z</published>
+        <link type="text/html" href=
+                "http://twitter.com/yobelto/statuses/136230355211530240" rel="alternate"/>
+        <title>@mangohosting nice en aldea digital
+            andara @markdrakke de @nearsoft muchos saludos y estamos en contacto!
+        </title>
+        <content type="html">@&lt;a class=" "
+            href="http://twitter.com/mangohosting"&gt;mangohosting&lt;/a&gt; nice en aldea digital andara @&lt;a class=" "
+            href="http://twitter.com/markdrakke"&gt;markdrakke&lt;/a&gt; de @&lt;em&gt;nearsoft&lt;/em&gt; muchos saludos y estamos
+            en contacto!
+        </content>
+        <updated>2011-11-14T23:53:42Z</updated>
+        <link type="image/png" href=
+                "http://a3.twimg.com/profile_images/329091190/RobertoFace_normal.jpg" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/download/android" rel="nofollow"
+            &gt;Twitter for Android&lt;/a&gt;</twitter:source>
+        <twitter:lang>es</twitter:lang>
+        <author>
+            <name>yobelto (Roberto
+                aka(yobelto))
+            </name>
+            <uri>http://twitter.com/yobelto</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>
+            tag:search.twitter.com,2005:136229928969580546
+        </id>
+        <published>2011-11-14T23:52:00Z</published>
+        <link type="text/html"
+              href="http://twitter.com/DonChambitas/statuses/136229928969580546" rel="alternate"/>
+        <title>@Nearsoft busca Ingenieros
+            en Sistemas (todos los niveles). http://t.co/Y0z3Av3G #RRHH #recursoshumanos #empleo
+        </title>
+        <content type="html">@&lt;
+            em&gt;Nearsoft&lt;/em&gt; busca Ingenieros en Sistemas (todos los niveles). &lt;a href="http://t.co/Y0z3Av3G"&gt;
+            http://t.co/Y0z3Av3G&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23RRHH" title="#RRHH" class=" "&gt;#RRHH
+            &lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23recursoshumanos" title="#recursoshumanos" class=" "&gt;
+            #recursoshumanos&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23empleo" title="#empleo" class=" "&gt;
+            #empleo&lt;/a&gt;</content>
+        <updated>2011-11-14T23:52:00Z</updated>
+        <link type="image/png" href=
+                "http://a2.twimg.com/profile_images/1440651132/donRH_normal.jpg" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com" rel="nofollow"&gt;
+            TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>es</twitter:lang>
+        <author>
+            <name>DonChambitas (Hugo Hern&#xe1;ndez)
+            </name>
+            <uri>http://twitter.com/DonChambitas</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>
+            tag:search.twitter.com,2005:136227746501234688
+        </id>
+        <published>2011-11-14T23:43:20Z</published>
+        <link type="text/html"
+              href="http://twitter.com/yobelto/statuses/136227746501234688" rel="alternate"/>
+        <title>RT @nearsoft: NICE: @nearsoft
+            featured in @mashable story: How to Set Performance Standards for Your Startup&#x2019;s New Hires http://t.co/e5IWyFAF
+        </title>
+        <content type="html">RT @&lt;a class=" " href="http://twitter.com/nearsoft"&gt;nearsoft&lt;/a&gt;: NICE: @&lt;em
+            &gt;nearsoft&lt;/em&gt; featured in @&lt;a class=" " href="http://twitter.com/mashable"&gt;mashable&lt;/a&gt; story:
+            How to Set Performance Standards for Your Startup&#x2019;s New Hires &lt;a href="http://t.co/e5IWyFAF"&gt;
+            http://t.co/e5IWyFAF&lt;/a&gt;</content>
+        <updated>2011-11-14T23:43:20Z</updated>
+        <link type="image/png" href=
+                "http://a3.twimg.com/profile_images/329091190/RobertoFace_normal.jpg" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;
+        </twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>yobelto (Roberto aka(yobelto))</name>
+            <uri>
+                http://twitter.com/yobelto
+            </uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:136221402935209986
+        </id>
+        <published>2011-11-14T23:18:07Z</published>
+        <link type="text/html" href=
+                "http://twitter.com/irisasecas/statuses/136221402935209986" rel="alternate"/>
+        <title>RT @nearsoft: NICE: @nearsoft
+            featured in @mashable story: How to Set Performance Standards for Your Startup&#x2019;s New Hires http://t.co/e5IWyFAF
+        </title>
+        <content type="html">RT @&lt;a class=" " href="http://twitter.com/nearsoft"&gt;nearsoft&lt;/a&gt;: NICE: @&lt;em
+            &gt;nearsoft&lt;/em&gt; featured in @&lt;a class=" " href="http://twitter.com/mashable"&gt;mashable&lt;/a&gt; story:
+            How to Set Performance Standards for Your Startup&#x2019;s New Hires &lt;a href="http://t.co/e5IWyFAF"&gt;
+            http://t.co/e5IWyFAF&lt;/a&gt;</content>
+        <updated>2011-11-14T23:18:07Z</updated>
+        <link type="image/png" href=
+                "http://a2.twimg.com/profile_images/1506169107/prof_normal.jpg" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;
+        </twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>irisasecas (Iris Hern&#xe1;ndez)</name>
+            <uri>
+                http://twitter.com/irisasecas
+            </uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:136220512014700544
+        </id>
+        <published>2011-11-14T23:14:35Z</published>
+        <link type="text/html" href=
+                "http://twitter.com/xnt/statuses/136220512014700544" rel="alternate"/>
+        <title>RT @nearsoft: NICE: @nearsoft featured in
+            @mashable story: How to Set Performance Standards for Your Startup&#x2019;s New Hires http://t.co/e5IWyFAF
+        </title>
+        <content type="html">RT @&lt;a class=" " href="http://twitter.com/nearsoft"&gt;nearsoft&lt;/a&gt;: NICE: @&lt;em
+            &gt;nearsoft&lt;/em&gt; featured in @&lt;a class=" " href="http://twitter.com/mashable"&gt;mashable&lt;/a&gt; story:
+            How to Set Performance Standards for Your Startup&#x2019;s New Hires &lt;a href="http://t.co/e5IWyFAF"&gt;
+            http://t.co/e5IWyFAF&lt;/a&gt;</content>
+        <updated>2011-11-14T23:14:35Z</updated>
+        <link type="image/png" href=
+                "http://a0.twimg.com/profile_images/1641660726/profile_normal.jpg" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;
+        </twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>xnt (Vicente Plata)</name>
+            <uri>http://twitter.com/xnt
+            </uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:136220488274952192</id>
+        <published>2011-11-14T23:14:29Z
+        </published>
+        <link type="text/html" href="http://twitter.com/jorgepatriciopg/statuses/136220488274952192" rel="alternate"
+                />
+        <title>&#x201c;@nearsoft: NICE: @nearsoft featured in @mashable story: How to Set Performance Standards for Your
+            Startup&#x2019;s New Hires http://t.co/joXhu9FE&#x201d;</title>
+        <content type="html">&#x201c;@&lt;em&gt;nearsoft&lt;/em
+            &gt;: NICE: @&lt;em&gt;nearsoft&lt;/em&gt; featured in @&lt;a class=" " href="http://twitter.com/mashable"&gt;mashable
+            &lt;/a&gt; story: How to Set Performance Standards for Your Startup&#x2019;s New Hires &lt;a href="http://t.co/joXhu9FE"
+            &gt;http://t.co/joXhu9FE&lt;/a&gt;&#x201d;</content>
+        <updated>2011-11-14T23:14:29Z</updated>
+        <link type="image/png" href=
+                "http://a2.twimg.com/profile_images/537167334/jorgecerveza_normal.jpg" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/#!/download/iphone"
+            rel="nofollow"&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>
+                jorgepatriciopg (Jorge Peralta)
+            </name>
+            <uri>http://twitter.com/jorgepatriciopg</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>
+            tag:search.twitter.com,2005:136218657415106560
+        </id>
+        <published>2011-11-14T23:07:13Z</published>
+        <link type="text/html"
+              href="http://twitter.com/dianonina/statuses/136218657415106560" rel="alternate"/>
+        <title>"Nearsoft ilustrando las
+            noticias del mundo ayer y hoy" http://t.co/LiPvlLei
+        </title>
+        <content type="html">"&lt;em&gt;Nearsoft&lt;/em&gt;
+            ilustrando las noticias del mundo ayer y hoy" &lt;a href="http://t.co/LiPvlLei"&gt;http://t.co/LiPvlLei&lt;/a&gt;
+        </content>
+        <updated>2011-11-14T23:07:13Z</updated>
+        <link type="image/png" href=
+                "http://a0.twimg.com/profile_images/1367427192/2998376206_125e9aca3d_normal.jpg" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com" rel="nofollow"&gt;
+            TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>es</twitter:lang>
+        <author>
+            <name>dianonina (Diana)</name>
+            <uri>
+                http://twitter.com/dianonina
+            </uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:136218190018654208
+        </id>
+        <published>2011-11-14T23:05:21Z</published>
+        <link type="text/html" href=
+                "http://twitter.com/Vallel/statuses/136218190018654208" rel="alternate"/>
+        <title>RT @nearsoft: NICE: @nearsoft featured
+            in @mashable story: How to Set Performance Standards for Your Startup&#x2019;s New Hires http://t.co/e5IWyFAF
+        </title>
+        <content type="html">RT @&lt;a class=" " href="http://twitter.com/nearsoft"&gt;nearsoft&lt;/a&gt;: NICE: @&lt;em
+            &gt;nearsoft&lt;/em&gt; featured in @&lt;a class=" " href="http://twitter.com/mashable"&gt;mashable&lt;/a&gt; story:
+            How to Set Performance Standards for Your Startup&#x2019;s New Hires &lt;a href="http://t.co/e5IWyFAF"&gt;
+            http://t.co/e5IWyFAF&lt;/a&gt;</content>
+        <updated>2011-11-14T23:05:21Z</updated>
+        <link type="image/png" href=
+                "http://a1.twimg.com/profile_images/1424963647/314306908_normal.jpg" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;
+        </twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>Vallel (Vallel)</name>
+            <uri>http://twitter.com/Vallel
+            </uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:136216679528140800</id>
+        <published>2011-11-14T22:59:21Z
+        </published>
+        <link type="text/html" href="http://twitter.com/nearsoft/statuses/136216679528140800" rel="alternate"/>
+        <title>NICE: @nearsoft featured in @mashable story: How to Set Performance Standards for Your Startup&#x2019;s New
+            Hires http://t.co/e5IWyFAF
+        </title>
+        <content type="html">NICE: @&lt;em&gt;nearsoft&lt;/em&gt; featured in @&lt;a class="
+            " href="http://twitter.com/mashable"&gt;mashable&lt;/a&gt; story: How to Set Performance Standards for Your Startup
+            &#x2019;s New Hires &lt;a href="http://t.co/e5IWyFAF"&gt;http://t.co/e5IWyFAF&lt;/a&gt;</content>
+        <updated>
+            2011-11-14T22:59:21Z
+        </updated>
+        <link type="image/png" href=
+                "http://a3.twimg.com/profile_images/587491165/twitter-mugshot-64x64_normal.jpg" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;
+        </twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>nearsoft (Nearsoft, Inc)</name>
+            <uri>
+                http://twitter.com/nearsoft
+            </uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:136182203615948800
+        </id>
+        <published>2011-11-14T20:42:22Z</published>
+        <link type="text/html" href=
+                "http://twitter.com/dianonina/statuses/136182203615948800" rel="alternate"/>
+        <title>"Learning to Use Haml" (via
+            @alebelcor) http://t.co/qVvui1U9 #haml
+        </title>
+        <content type="html">"Learning to Use Haml" (via @&lt;a class=" "
+            href="http://twitter.com/alebelcor"&gt;alebelcor&lt;/a&gt;) &lt;a href="http://t.co/qVvui1U9"&gt;http://t.co/qVvui1U9
+            &lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23haml" title="#haml" class=" "&gt;#haml&lt;/a&gt;
+        </content>
+        <updated>2011-11-14T20:42:22Z</updated>
+        <link type="image/png" href=
+                "http://a0.twimg.com/profile_images/1367427192/2998376206_125e9aca3d_normal.jpg" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com" rel="nofollow"&gt;
+            TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>dianonina (Diana)</name>
+            <uri>
+                http://twitter.com/dianonina
+            </uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:135559195511627776
+        </id>
+        <published>2011-11-13T03:26:45Z</published>
+        <link type="text/html" href=
+                "http://twitter.com/matt_perez/statuses/135559195511627776" rel="alternate"/>
+        <title>Now we know who can play the lion
+            in the Nearsoft production of The Wizard of Oz :) http://t.co/W5zwQP8J
+        </title>
+        <content type="html">Now we know who can
+            play the lion in the &lt;em&gt;Nearsoft&lt;/em&gt; production of The Wizard of Oz :) &lt;a href="http://t.co/W5zwQP8J"
+            &gt;http://t.co/W5zwQP8J&lt;/a&gt;</content>
+        <updated>2011-11-13T03:26:45Z</updated>
+        <link type="image/png" href=
+                "http://a0.twimg.com/profile_images/377926109/matt-perez_normal.jpg" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/tweetbutton" rel="nofollow"&gt;
+            Tweet Button&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>matt_perez (Matt Perez)</name>
+            <uri>
+                http://twitter.com/matt_perez
+            </uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:135154185195880449
+        </id>
+        <published>2011-11-12T00:37:23Z</published>
+        <link type="text/html" href=
+                "http://twitter.com/IleanaLindell/statuses/135154185195880449" rel="alternate"/>
+        <title>Images courtesy of iStockphoto,
+            AK2, and Flickr, marciookabe, Nearsoft
+        </title>
+        <content type="html">Images courtesy of iStockphoto, AK2, and Flickr,
+            marciookabe, &lt;em&gt;Nearsoft&lt;/em&gt;</content>
+        <updated>2011-11-12T00:37:23Z</updated>
+        <link type="image/png" href=
+                "http://a0.twimg.com/profile_images/1604176919/1211888_on_the_beach_3_normal.jpg" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;
+        </twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>IleanaLindell (Ileana Lindell)</name>
+            <uri>
+                http://twitter.com/IleanaLindell
+            </uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:135113790151864320
+        </id>
+        <published>2011-11-11T21:56:52Z</published>
+        <link type="text/html" href=
+                "http://twitter.com/markdrakke/statuses/135113790151864320" rel="alternate"/>
+        <title>Saludos MarySun, se te extra&#xf1;
+            a en Nearsoft :P (@_marysun live on http://t.co/Gw3Tn6cI)
+        </title>
+        <content type="html">Saludos MarySun, se te extra
+            &#xf1;a en &lt;em&gt;Nearsoft&lt;/em&gt; :P (@&lt;a class=" " href="http://twitter.com/_marysun"&gt;_marysun&lt;/a&gt;
+            live on &lt;a href="http://t.co/Gw3Tn6cI"&gt;http://t.co/Gw3Tn6cI&lt;/a&gt;)
+        </content>
+        <updated>2011-11-11T21:56:52Z
+        </updated>
+        <link type="image/png" href="http://a2.twimg.com/profile_images/1610977723/mark_normal.jpg" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitcam.com" rel="nofollow"&gt;Twitcam.com
+            &lt;/a&gt;</twitter:source>
+        <twitter:lang>es</twitter:lang>
+        <author>
+            <name>markdrakke (Marko E P. Acosta)</name>
+            <uri>
+                http://twitter.com/markdrakke
+            </uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:134755050936471553
+        </id>
+        <published>2011-11-10T22:11:22Z</published>
+        <link type="text/html" href=
+                "http://twitter.com/GrupoCMC/statuses/134755050936471553" rel="alternate"/>
+        <title>He contactado con Carlos Ponce Robles
+            - Marketing &amp; Business Development, Nearsoft, Inc. en Viadeo : http://t.co/1lgstl3C
+        </title>
+        <content type="html">He
+            contactado con Carlos Ponce Robles - Marketing &amp; Business Development, &lt;em&gt;Nearsoft&lt;/em&gt;, Inc. en
+            Viadeo : &lt;a href="http://t.co/1lgstl3C"&gt;http://t.co/1lgstl3C&lt;/a&gt;</content>
+        <updated>2011-11-10T22:11:22Z
+        </updated>
+        <link type="image/png" href="http://a2.twimg.com/profile_images/723910814/Es_hora_de_crecer__normal.jpg" rel=
+                "image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.viadeo.com" rel="nofollow"&gt;Viadeo&lt;
+            /a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>GrupoCMC (Grupo CMC)</name>
+            <uri>
+                http://twitter.com/GrupoCMC
+            </uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:134325286786449408
+        </id>
+        <published>2011-11-09T17:43:38Z</published>
+        <link type="text/html" href=
+                "http://twitter.com/Ryuzke/statuses/134325286786449408" rel="alternate"/>
+        <title>Visitando, muy bieeen (@ Nearsoft,
+            Inc.) http://t.co/r8d51P8W
+        </title>
+        <content type="html">Visitando, muy bieeen (@ &lt;em&gt;Nearsoft&lt;/em&gt;, Inc.)
+            &lt;a href="http://t.co/r8d51P8W"&gt;http://t.co/r8d51P8W&lt;/a&gt;</content>
+        <updated>2011-11-09T17:43:38Z
+        </updated>
+        <link type="image/png" href="http://a0.twimg.com/profile_images/1427154454/ryuzketwitter_normal.jpg" rel=
+                "image"/>
+        <twitter:geo>
+            <georss:point>29.0822 -110.9823
+            </georss:point>
+        </twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://foursquare.com" rel="nofollow"&gt;foursquare
+            &lt;/a&gt;</twitter:source>
+        <twitter:lang>es</twitter:lang>
+        <author>
+            <name>Ryuzke (Angel Moreno)</name>
+            <uri>
+                http://twitter.com/Ryuzke
+            </uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:134033421063303168
+        </id>
+        <published>2011-11-08T22:23:52Z</published>
+        <link type="text/html" href=
+                "http://twitter.com/cititabasco/statuses/134033421063303168" rel="alternate"/>
+        <title>I favorited a @YouTube video
+            http://t.co/FV5l8VTA Roberto Martinez de Nearsoft en "El Futuro
+        </title>
+        <content type="html">I favorited a @&lt;a
+            class=" " href="http://twitter.com/YouTube"&gt;YouTube&lt;/a&gt; video &lt;a href="http://t.co/FV5l8VTA"&gt;
+            http://t.co/FV5l8VTA&lt;/a&gt; Roberto Martinez de &lt;em&gt;Nearsoft&lt;/em&gt; en "El Futuro
+        </content>
+        <updated>
+            2011-11-08T22:23:52Z
+        </updated>
+        <link type="image/png" href=
+                "http://a0.twimg.com/profile_images/1129899330/citi_twitter_avatar_normal.jpg" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.google.com/" rel="nofollow"&gt;Google
+            &lt;/a&gt;</twitter:source>
+        <twitter:lang>es</twitter:lang>
+        <author>
+            <name>cititabasco (CITI Tabasco)</name>
+            <uri>
+                http://twitter.com/cititabasco
+            </uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:133985316703973376
+        </id>
+        <published>2011-11-08T19:12:43Z</published>
+        <link type="text/html" href=
+                "http://twitter.com/nearsoft/statuses/133985316703973376" rel="alternate"/>
+        <title>At the #SHDH in Tabasco: 4 consejos
+            para desarrollar tus habilidades como programador http://t.co/kBtKJsrz cc @jf @progrium @adrian_perez
+        </title>
+        <content
+                type="html">At the &lt;a href="http://search.twitter.com/search?q=%23SHDH" title="#SHDH" class=" "&gt;#SHDH&lt;/a&gt;
+            in Tabasco: 4 consejos para desarrollar tus habilidades como programador &lt;a href="http://t.co/kBtKJsrz"&gt;
+            http://t.co/kBtKJsrz&lt;/a&gt; cc @&lt;a class=" " href="http://twitter.com/jf"&gt;jf&lt;/a&gt; @&lt;a class=" "
+            href="http://twitter.com/progrium"&gt;progrium&lt;/a&gt; @&lt;a class=" " href="http://twitter.com/adrian_perez"&gt;
+            adrian_perez&lt;/a&gt;</content>
+        <updated>2011-11-08T19:12:43Z</updated>
+        <link type="image/png" href=
+                "http://a3.twimg.com/profile_images/587491165/twitter-mugshot-64x64_normal.jpg" rel="image"/>
+        <twitter:geo></twitter:geo>
+        <twitter:metadata>
+            <twitter:result_type>recent
+            </twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;
+        </twitter:source>
+        <twitter:lang>es</twitter:lang>
+        <author>
+            <name>nearsoft (Nearsoft, Inc)</name>
+            <uri>
+                http://twitter.com/nearsoft
+            </uri>
+        </author>
+    </entry>
+</feed>

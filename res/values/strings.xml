@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Twitter reader</string>
+    <string name="search_tweets_label">Search tweets for:</string>
+    <string name="search_label">Search</string>
+    <string name="tweets_title">Tweets</string>
+    <string name="no_tweets_label">No tweets were found.</string>
+</resources>
