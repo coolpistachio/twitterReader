@@ -9,13 +9,14 @@ import android.widget.EditText;
 import com.nearsoft.reader.R;
 import com.nearsoft.reader.utils.StringUtils;
 
-public class TwitterReaderActivity extends Activity implements View.OnClickListener {
+public class TwitterReaderActivity extends Activity implements
+		View.OnClickListener {
 	public static String searchParamsKey = "searchParams";
-	
+
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.main);	
+		setContentView(R.layout.main);
 		setupListeners();
 	}
 
@@ -29,16 +30,16 @@ public class TwitterReaderActivity extends Activity implements View.OnClickListe
 		switch (v.getId()) {
 		case R.id.btnSearchTweets:
 			String params = getQueryParams();
-			if(!StringUtils.isEmpty(params)) {				
+			if (!StringUtils.isEmpty(params)) {
 				Intent intent = new Intent(this, TweetsListActivity.class);
 				intent.putExtra(searchParamsKey, params);
 				startActivity(intent);
-			}	
+			}
 			break;
 		}
 	}
-	
-	private String getQueryParams(){
+
+	private String getQueryParams() {
 		EditText searchInput = (EditText) findViewById(R.id.txtSearchInput);
 		return searchInput.getText().toString();
 	}
